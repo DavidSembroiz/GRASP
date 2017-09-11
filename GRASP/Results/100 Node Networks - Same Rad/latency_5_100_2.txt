@@ -1,8 +1,0 @@
-Critical Nodes 5 31 
-Occurrences 3
-Cost 219
-
-Critical Nodes 22 54 
-Occurrences 5
-Cost 219
-

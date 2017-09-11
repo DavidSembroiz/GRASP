@@ -1,6 +1,0 @@
-Time 82s
-
-Critical Nodes 242 
-Occurrences 5
-Cost 2886
-

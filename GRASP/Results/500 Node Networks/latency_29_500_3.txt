@@ -1,6 +1,0 @@
-Time 1910s
-
-Critical Nodes 216 278 299 
-Occurrences 1
-Cost 3561
-
