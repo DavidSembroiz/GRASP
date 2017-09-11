@@ -1,0 +1,24 @@
+Critical Nodes 12 15 24 48 69 
+Occurrences 1
+Cost 240
+
+Critical Nodes 12 15 24 69 97 
+Occurrences 5
+Cost 240
+
+Critical Nodes 12 15 48 62 69 
+Occurrences 1
+Cost 240
+
+Critical Nodes 12 15 48 69 80 
+Occurrences 1
+Cost 240
+
+Critical Nodes 15 48 53 62 80 
+Occurrences 1
+Cost 240
+
+Critical Nodes 15 48 53 69 80 
+Occurrences 3
+Cost 240
+

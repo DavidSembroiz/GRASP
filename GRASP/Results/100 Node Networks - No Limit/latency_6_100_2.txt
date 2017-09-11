@@ -1,0 +1,6 @@
+Time 404s
+
+Critical Nodes 31 80 
+Occurrences 1
+Cost 248
+

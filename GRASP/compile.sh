@@ -1,0 +1,1 @@
+clang++ -std=c++11 -stdlib=libc++ main.cpp utils.cpp generator.cpp grasp.cpp sorters.cpp

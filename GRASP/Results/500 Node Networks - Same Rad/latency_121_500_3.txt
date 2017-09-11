@@ -1,0 +1,6 @@
+Time 1860s
+
+Critical Nodes 212 276 337 
+Occurrences 1
+Cost 1288
+
